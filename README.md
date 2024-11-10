@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Movie Seat Booking</h1>
+        <h1>Flight Seat Booking</h1>
         <div class="seats">
             <!-- Seats will be generated here -->
         </div>
